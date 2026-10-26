@@ -19,6 +19,7 @@ da ingestão ao modelo semântico que chega no dashboard.
 - 🏢 Trabalho com soluções de dados e BI na **Power BI Solutions**
 - 🏗️ Desenho arquiteturas **lakehouse medalhão** (bronze → silver → gold) no **Microsoft Fabric** e no **Databricks**
 - 🔁 Já migrei ambientes de **Hive Metastore para Unity Catalog** sem quebrar os relatórios em produção
+- 🚦 Implanto **CI/CD para Power BI** (PBIP, aprovação por ambiente e deploy via API do Fabric)
 - 📊 Modelagem dimensional e **Direct Lake** para Power BI rápido em grandes volumes
 - 🤖 Uso agentes de IA (Claude Code, Spec Kit) para acelerar desenvolvimento com especificação e testes
 - 🌱 Hoje estudando: Fabric Real-Time Intelligence, Data Activator e CI/CD com Fabric Git integration
@@ -73,8 +74,26 @@ Script C# para Tabular Editor que reescreve, com regex, as conexões de datasets
 <tr>
 <td width="50%" valign="top">
 
+### 🚦 [Esteira CI/CD para Power BI](https://github.com/gilbertosales/powerbi-cicd-esteira)
+Promoção **Dev → Homologação → Produção** com aprovação via MR, validação de PBIP/TMDL e deploy pela API do Fabric com `fabric-cicd` e Service Principal. Implantada num órgão público, com rollback testado.
+
+`Power BI` `PBIP` `fabric-cicd` `GitLab CI` `Entra ID`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [Gera Documents](https://github.com/gilbertosales/gera-documents)
+Documentação técnica em Markdown entregue como Word corporativo: análise de 25+ regras, correção automática, revisão de texto com IA (Claude) e frontend web local. 107 testes.
+
+`Python` `python-docx` `Claude Code` `Spec Kit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🃏 [Spec-Driven Development na prática](https://github.com/gilbertosales/FirstProjectSpeckit)
-Aplicação web construída com **Spec Kit** e agente de IA: constituição do projeto, especificação, plano e testes antes do código. Inclui script Python de ingestão de API.
+Aplicação web construída com **Spec Kit** e agente de IA: constituição do projeto, especificação, plano e testes antes do código.
 
 `Spec Kit` `IA` `JavaScript` `Python`
 
@@ -82,7 +101,6 @@ Aplicação web construída com **Spec Kit** e agente de IA: constituição do p
 <td width="50%" valign="top">
 
 ### 📚 Estudos e referências
-Forks que uso para estudo contínuo:
 [skills-for-fabric](https://github.com/gilbertosales/skills-for-fabric) ·
 [fabric-samples](https://github.com/gilbertosales/fabric-samples) ·
 [imersão Databricks](https://github.com/gilbertosales/imersao_databricks) ·
@@ -91,6 +109,7 @@ Forks que uso para estudo contínuo:
 </td>
 </tr>
 </table>
+
 
 ## 📈 GitHub
 
