@@ -111,6 +111,24 @@ Aplicação web construída com **Spec Kit** e agente de IA: constituição do p
 </table>
 
 
+## 🎮 Nas horas vagas
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertosales/gilbertosales/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilbertosales/gilbertosales/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/gilbertosales/gilbertosales/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🐍 [Jogo da Cobrinha](https://gilbertosales.github.io/jogo_cobra/)
+Snake clássico em HTML e JavaScript puro, com níveis que aceleram a cobra e placar de recordes.
+
+[![Jogar agora](https://img.shields.io/badge/Jogar%20agora-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://gilbertosales.github.io/jogo_cobra/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilbertosales/jogo_cobra)
+
+</div>
+
 ## 📈 GitHub
 
 <div align="center">
