@@ -124,8 +124,9 @@ Aplicação web construída com **Spec Kit** e agente de IA: constituição do p
 ### 🐍 [Jogo da Cobrinha](https://gilbertosales.github.io/jogo_cobra/)
 Snake clássico em HTML e JavaScript puro, com níveis que aceleram a cobra e placar de recordes.
 
-[![Jogar agora](https://img.shields.io/badge/Jogar%20agora-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://gilbertosales.github.io/jogo_cobra/)
-[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilbertosales/jogo_cobra)
+<a href="https://gilbertosales.github.io/jogo_cobra/"><img src="assets/jogo-da-cobrinha.png" width="360" alt="Tela do Jogo da Cobrinha: clique para jogar" /></a>
+
+▶️ [Jogar agora](https://gilbertosales.github.io/jogo_cobra/) · 💻 [Ver código](https://github.com/gilbertosales/jogo_cobra)
 
 </div>
 
