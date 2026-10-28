@@ -100,10 +100,10 @@ Aplicação web construída com **Spec Kit** e agente de IA: constituição do p
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Você Conhece o Claude Code?](https://github.com/gilbertosales/QuizClaudeCodeProjeto)
-Quiz web com 3 níveis, timer com bônus de velocidade, badges e ranking global. Supabase com RLS e login anônimo, deploy contínuo na Vercel. **[▶ Jogar agora](https://quiz-claude-code-projeto-phi.vercel.app)**
+### 🤖 [Quiz Claude Code · Verdadeiro ou Falso](https://github.com/gilbertosales/Quiz-claude)
+Treinamento gamificado com 4 níveis, explicação e link para a documentação em cada resposta, e ranking global com regras validadas no banco (RPC, RLS e rate limit). 96 testes + E2E. **[▶ Jogar agora](https://quiz-claude-ten.vercel.app)**
 
-`JavaScript` `Supabase` `Vercel` `Claude Code`
+`React` `TypeScript` `Supabase` `Vitest` `Playwright`
 
 </td>
 </tr>
