@@ -100,15 +100,19 @@ Aplicação web construída com **Spec Kit** e agente de IA: constituição do p
 </td>
 <td width="50%" valign="top">
 
-### 📚 Estudos e referências
-[skills-for-fabric](https://github.com/gilbertosales/skills-for-fabric) ·
-[fabric-samples](https://github.com/gilbertosales/fabric-samples) ·
-[imersão Databricks](https://github.com/gilbertosales/imersao_databricks) ·
-[roadmap de engenharia de dados](https://github.com/gilbertosales/data-engineering-roadmap)
+### 🤖 [Você Conhece o Claude Code?](https://github.com/gilbertosales/QuizClaudeCodeProjeto)
+Quiz web com 3 níveis, timer com bônus de velocidade, badges e ranking global. Supabase com RLS e login anônimo, deploy contínuo na Vercel. **[▶ Jogar agora](https://quiz-claude-code-projeto-phi.vercel.app)**
+
+`JavaScript` `Supabase` `Vercel` `Claude Code`
 
 </td>
 </tr>
 </table>
+
+📚 **Estudos:** [skills-for-fabric](https://github.com/gilbertosales/skills-for-fabric) ·
+[fabric-samples](https://github.com/gilbertosales/fabric-samples) ·
+[imersão Databricks](https://github.com/gilbertosales/imersao_databricks) ·
+[roadmap de engenharia de dados](https://github.com/gilbertosales/data-engineering-roadmap)
 
 
 ## 🎮 Nas horas vagas
